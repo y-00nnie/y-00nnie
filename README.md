@@ -9,6 +9,7 @@
 - 🎀 Meu nome é Gabriella, tenho 19 anos e estou atualmente no meu primeiro período da faculdade de Ciência da Computação.
 - 🎀 Um dos meus objetivos é me tornar uma full stack dev no futuro
 - 🎀 Falo português e inglês; e pretendo aprender espanhol e japonês
+- 🎀 Github focado em atividades da faculdade e cursos extras
 ## Linguagens de interesse ✧˖°
 - 🎀 Aprendendo no momento: 
             <img align="center" width= 40 height= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
