@@ -20,7 +20,7 @@
             <img align="center" width= 40 height= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
           
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=y-00nnie&show_icons=true&theme=radical">
-<img align="left" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-00nnie&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img align="left" width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-00nnie&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 
 
