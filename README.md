@@ -12,6 +12,7 @@
 - 🎀 Github focado em atividades da faculdade e cursos extras
 ## Linguagens de interesse ✧˖°
 - 🎀 Aprendendo no momento: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
             <img align="center" width= 40 height= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
           
 - 🎀 Quero aprender: 
