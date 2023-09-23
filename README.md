@@ -7,7 +7,7 @@
 
 ## Sobre mim ✧˖°
 - 🎀 Meu nome é Gabriella, tenho 19 anos e estou atualmente no meu primeiro período da faculdade de Ciência da Computação.
-- 🎀 Um dos meus objetivos é me tornar uma full stack dev no futuro
+- 🎀 Interessada na área de cyber-segurança e ethical hacking
 - 🎀 Falo português e inglês; e pretendo aprender espanhol e japonês
 - 🎀 Github focado em atividades da faculdade e cursos extras
 ## Linguagens de interesse ✧˖°
