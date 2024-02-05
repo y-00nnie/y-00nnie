@@ -4,7 +4,7 @@
 
 
 <div align = center>
-     <img src="https://media.tenor.com/MGYu3K8XkvwAAAAd/silksong-hollow-knight.gif" style="width:1000px;height:500px;">
+     <img src="https://i.pinimg.com/originals/6d/5d/49/6d5d49c9a72d518195e3d20d4c4cb878.jpg" style="width:1100px;height:450px;">
 </div>     
 
 ```C
