@@ -22,7 +22,7 @@ int main(){
 
 ```
 
-<img align="left" src="https://media.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif"><br />
+
 
 <img align="right" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
