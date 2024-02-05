@@ -4,7 +4,7 @@
 
 
 <div align = center>
-     <img src="https://i.pinimg.com/originals/6d/5d/49/6d5d49c9a72d518195e3d20d4c4cb878.jpg" style="width:1100px;height:450px;">
+     <img src="https://i.pinimg.com/originals/6d/5d/49/6d5d49c9a72d518195e3d20d4c4cb878.jpg" >
 </div>     
 
 ```C
