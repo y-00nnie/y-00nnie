@@ -16,15 +16,14 @@
 
 if __name__ == "__main__":
 
-     info: list[str] = ["Gabriella", "21 y.o", "she/her"] # dual boot user (˶˃ ᵕ ˂˶)
+     info: list[str] = ["Gabriella", "21 y.o", "she/her"] # fedora user (˶˃ ᵕ ˂˶)
      bio: str = "Computer Science student at Rio de Janeiro State University"
-     learning: list[str] = ["Java", "Python"]
+     learning: list[str] = ["HTML & CSS", "PHP", "Java"]
      areas_of_interest: list[str] = ["Full Stack Development", "Cybersecurity"]
 
 
 ```
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 <img align="right" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img align="right" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
