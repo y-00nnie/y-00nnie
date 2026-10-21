@@ -16,7 +16,7 @@
 
 if __name__ == "__main__":
 
-     info: list[str] = ["Gabriella", "21 y.o", "she/her"] # fedora user (˶˃ ᵕ ˂˶)
+     info: list[str] = ["Gabriella", "22 y.o", "she/her"] # fedora user (˶˃ ᵕ ˂˶)
      bio: str = "Computer Science student at Rio de Janeiro State University"
      learning: list[str] = ["HTML & CSS", "PHP", "Java"]
      areas_of_interest: list[str] = ["Full Stack Development", "Cybersecurity"]
